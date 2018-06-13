@@ -1,5 +1,6 @@
 site_name: Sci Fi UI Design Docs
-repo_url: https://github.com/devdogio/Sci-Fi-UI-Design-Doc
+site_author: Devdog
 site_url: https://devdog.io
+
 markdown_extensions:
  - admonition
