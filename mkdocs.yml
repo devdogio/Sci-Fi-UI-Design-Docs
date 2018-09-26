@@ -2,5 +2,7 @@ site_name: Sci Fi UI Design Docs
 site_author: Devdog
 site_url: https://devdog.io
 
+theme: readthedocs
+
 markdown_extensions:
  - admonition
